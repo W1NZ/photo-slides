@@ -1,6 +1,8 @@
 .container{
     width: 90vw;
     display:flex;
+    justify-content:center;
+    align-items:center;
 }
 .panel{
     width: 200px;
